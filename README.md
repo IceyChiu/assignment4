@@ -3,3 +3,5 @@
 ##The code will generate two files with each line including a increasing number:
 * ###1.txt
 * ###2.txt
+!["1"](/1.jpeg "result for 1000")
+!["2"](/2.jpeg "result for 1000000")
